@@ -68,3 +68,7 @@ console.log(getMiddle("hello world"))
 /*exercice 4 
 rtourner l'oppsé  d'un nombre donné*/
 
+function opposite(number){
+    return -number
+}
+
